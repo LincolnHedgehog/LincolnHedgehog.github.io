@@ -1,5 +1,6 @@
 『My Github Pages』
 
+Github Pages is  https://lincolnhedgehog.github.io/
 Thanks to . https://github.com/teriyakiegg/teriyakiegg.github.io
 
 ## how to push local folder.
