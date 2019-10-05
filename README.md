@@ -1,4 +1,6 @@
-『Github Pages手軽すぎる。Bootstrap, wow.js, bubbly-bgでプロフィールページ作った』
+『My Github Pages』
+
+Thanks to . https://github.com/teriyakiegg/teriyakiegg.github.io
 
 ## how to push local folder.
 
